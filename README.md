@@ -51,7 +51,7 @@ Key focus areas include:
 
 Landing page designed for navigation and dashboard access.
 
-![Home Page](Images/home_page.png)
+![Home Page](home_page.png)
 
 ---
 
@@ -66,7 +66,7 @@ Main analytics dashboard displaying:
 - Product trends
 - City performance
 
-![Executive Dashboard](Images/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ---
 
@@ -74,7 +74,7 @@ Main analytics dashboard displaying:
 
 Contains project details, tools used, features, and dashboard information.
 
-![About Page](Images/about_page.png)
+![About](about_page.png)
 
 ---
 
